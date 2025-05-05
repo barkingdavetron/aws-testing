@@ -17,4 +17,4 @@ npx jest tests/integration/auth.integration.test.js
 npx jest tests/integration/calories.integration.test.js
 npx jest tests/integration/ingredient.integration.test.js
 echo " All tests completed."
-read -p "Press enter to close this window"
+read -p "Press enter to close this window" base it off the routes on this aswell
